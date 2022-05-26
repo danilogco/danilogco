@@ -10,6 +10,8 @@ Fullstack web/mobile developer, love to develop products, create and consume API
 - In my recent experiences, I have specialized in creating financial solutions;
 - Important to work comfortably: good development practices, communication and very well defined processes.
 
+I usually put my personal repositories here: <https://github.com/dcotecnologia>
+
 ## Contact Me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danilogco)
