@@ -1,8 +1,9 @@
 # About Me
 
-[![Ruby Developer](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](#)
+[![Ruby Developer](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)](#)
 [![Python Developer](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
-
+[![JS Developer](https://img.shields.io/badge/JS-F0F000?style=for-the-badge&logo=javascript&logoColor=blue)](#)
+[![Linux](https://img.shields.io/badge/Linux-CCCCCC?style=for-the-badge&logo=manjaro&logoColor=blue)](#)
 
 Fullstack web/mobile developer, love to develop products, create and consume APIs - I've built products from scratch and found this to be one of the most gratifying experiences!
 - My focus, in relation to technology, has been on systems based on Ruby and Python. I have no blockages - languages and frameworks are tools that we can learn and use according to the problem and conditions presented;
@@ -13,9 +14,16 @@ Fullstack web/mobile developer, love to develop products, create and consume API
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danilogco)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/danilogco/)
-
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilogcarolino)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilogcarolino)
 
 ## GitHub Stats
 
-[![DaniloGCO's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogco)](https://github.com/danilogco/github-readme-stats)
+[![DaniloGCO's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogco)](https://github.com/anuraghazra/github-readme-stats)
+
+## Streaks Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## Language usages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogco&layout=full)](https://github.com/danilogco/github-readme-stats)
