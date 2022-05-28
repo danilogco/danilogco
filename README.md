@@ -12,6 +12,8 @@ Fullstack web/mobile developer, love to develop products, create and consume API
 
 I usually put my personal repositories here: <https://github.com/dcotecnologia>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcotecnologia&repo=.github)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danilogco)
