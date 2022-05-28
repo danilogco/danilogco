@@ -10,9 +10,9 @@ Fullstack web/mobile developer, love to develop products, create and consume API
 - In my recent experiences, I have specialized in creating financial solutions;
 - Important to work comfortably: good development practices, communication and very well defined processes.
 
-I usually put my personal repositories here: <https://github.com/dcotecnologia>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dcotecnologia&repo=.github)](https://github.com/anuraghazra/github-readme-stats)
+I'm contributor to the organizations: 
+* <https://github.com/dcotecnologia>
+* <https://github.com/Quasar-Flash>
 
 ## Contact Me
 
