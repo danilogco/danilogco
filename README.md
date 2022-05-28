@@ -20,12 +20,12 @@ I usually put my personal repositories here: <https://github.com/dcotecnologia>
 
 ## GitHub Stats
 
-[![DaniloGCO's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogco)](https://github.com/anuraghazra/github-readme-stats)
+[![DaniloGCO's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Streaks Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
 
 ## Language usages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogco&layout=full)](https://github.com/danilogco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogco&layout=full&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/danilogco/github-readme-stats)
