@@ -5,6 +5,8 @@
 [![JS Developer](https://img.shields.io/badge/JS-F0F000?style=for-the-badge&logo=javascript&logoColor=blue)](#)
 [![Linux](https://img.shields.io/badge/Linux-CCCCCC?style=for-the-badge&logo=manjaro&logoColor=blue)](#)
 
+I'm kinda crazy. I always use the last experimental kernel version.
+
 Fullstack web/mobile developer, love to develop products, create and consume APIs - I've built products from scratch and found this to be one of the most gratifying experiences!
 - My focus, in relation to technology, has been on systems based on Ruby and Python. I have no blockages - languages and frameworks are tools that we can learn and use according to the problem and conditions presented;
 - In my recent experiences, I have specialized in creating financial solutions;
