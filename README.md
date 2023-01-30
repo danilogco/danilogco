@@ -29,3 +29,7 @@ I'm contributor to the organizations:
 ## Public Streaks Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
+
+## Contributions Graphic
+
+[![Danilo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danilogco&theme=github-compact&hide_title=true)]()
