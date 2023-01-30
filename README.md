@@ -22,15 +22,10 @@ I'm contributor to the organizations:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/danilogco/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilogcarolino)
 
-## GitHub Stats
+## Public GitHub Stats
 
-[![DaniloGCO's GitHub stats](https://github-readme-6xutcsx1j-danilogco.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![DaniloGCO's GitHub stats](https://github-readme-6xutcsx1j-danilogco.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true)]
 
-## Streaks Stats
+## Public Streaks Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-6xutcsx1j-danilogco.vercel.app/api/top-langs/?username=danilogco&layout=compact&langs_count=10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
-
