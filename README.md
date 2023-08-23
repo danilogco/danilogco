@@ -4,8 +4,9 @@
 [![Python Developer](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
 [![JS Developer](https://img.shields.io/badge/JS-F0F000?style=for-the-badge&logo=javascript&logoColor=blue)](#)
 [![Linux](https://img.shields.io/badge/Linux-CCCCCC?style=for-the-badge&logo=manjaro&logoColor=blue)](#)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=manjaro&logoColor=blue)](#)
 
-Fullstack web/mobile developer, love to develop products, create and consume APIs - I've built products from scratch and found this to be one of the most gratifying experiences!
+Software engineer, Devops recently, I love to develop products, create and consume APIs - I've built products from scratch and found this to be one of the most gratifying experiences!
 - My focus, in relation to technology, has been on systems based on Ruby and Python. I have no blockages - languages and frameworks are tools that we can learn and use according to the problem and conditions presented;
 - In my recent experiences, I have specialized in creating financial solutions;
 - Important to work comfortably: good development practices, communication and very well defined processes.
