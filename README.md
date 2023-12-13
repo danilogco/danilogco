@@ -11,6 +11,8 @@ Software engineer, Devops recently, I love to develop products, create and consu
 - In my recent experiences, I have specialized in creating financial solutions;
 - Important to work comfortably: good development practices, communication and very well defined processes.
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6579fa4b5145316d25fc8597?variant=dark)](https://roadmap.sh)
+
 I'm contributor to the organizations: 
 * <https://github.com/dcotecnologia>
 * <https://github.com/Quasar-Flash>
