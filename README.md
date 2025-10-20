@@ -15,7 +15,7 @@ Software engineer, Devops recently, I love to develop products, create and consu
 
 I'm contributor to the organizations: 
 * <https://github.com/dcotecnologia>
-* <https://github.com/Quasar-Flash>
+* <https://github.com/arquitt>
 
 ## Contact Me
 
