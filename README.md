@@ -22,5 +22,4 @@ I'm contributor to the organizations:
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilogcarolino@gmail.com)
 
 ## Public GitHub Stats
-
-[![DaniloGCO's GitHub stats](https://github-readme-delta-three.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true&include_all_commits=true&count_private=true)]()
+[![DaniloGCO's GitHub stats](https://danilogco-github-readme.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true&include_all_commits=true&count_private=true)]()
