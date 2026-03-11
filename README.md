@@ -20,3 +20,8 @@ I'm contributor to the organizations:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danilogco)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/danilogco/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilogcarolino@gmail.com)
+
+
+[![DaniloGCO's GitHub stats](https://danilogco-stats.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
