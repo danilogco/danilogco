@@ -20,3 +20,7 @@ I'm contributor to the organizations:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danilogco)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/danilogco/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilogcarolino@gmail.com)
+
+## Public GitHub Stats
+
+[![DaniloGCO's GitHub stats](https://github-readme-6xutcsx1j-danilogco.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true&include_all_commits=true&count_private=true)]()
