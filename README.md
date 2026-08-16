@@ -12,8 +12,8 @@ Software engineer, Devops recently, I love to develop products, create and consu
 - Important to work comfortably: good development practices, communication and very well defined processes.
 
 I'm contributor to the organizations: 
-* <https://github.com/dcotecnologia>
-* <https://github.com/arquitt>
+* [DCO Tecnologia]
+* [Arquitech]
 
 ## Contact Me
 
@@ -25,3 +25,7 @@ I'm contributor to the organizations:
 [![DaniloGCO's GitHub stats](https://danilogco-stats.vercel.app/api?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogco&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[DCO Tecnologia]: https://github.com/dcotecnologia
+[Arquitech]: https://github.com/arquitt
