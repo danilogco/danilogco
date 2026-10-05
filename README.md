@@ -6,6 +6,7 @@ APIs, and have specialized in financial solutions.
 - Currently building at [Arquitech](https://github.com/arquitt), also contributing to
   [DCO Tecnologia](https://github.com/dcotecnologia)
 - Main stack: Python and Ruby, picking the right language and framework for the problem
+- Linux enthusiast and a believer in collaborative open source
 - I work best with good development practices, clear communication, and well-defined processes
 
 ## Stack
