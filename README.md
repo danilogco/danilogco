@@ -26,6 +26,8 @@ APIs, and have specialized in financial solutions.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/danilogco)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilogco/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/danilogco/)
+[![DCO Tecnologia](https://img.shields.io/badge/-DCO_Tecnologia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dcotecnologia/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danilogcarolino@gmail.com)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danilogco&theme=dark&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
